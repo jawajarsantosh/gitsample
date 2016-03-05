@@ -1,1 +1,1 @@
-"Hello World! How're you doing?"
+"Hello World!"
